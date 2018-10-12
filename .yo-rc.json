@@ -1,0 +1,39 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "jhipsterSampleApplication",
+    "packageName": "io.github.jhipster.application",
+    "packageFolder": "io/github/jhipster/application",
+    "serverPort": 8080,
+    "serviceDiscoveryType": "eureka",
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "no",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": "true",
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": true,
+    "nativeLanguage": "zh-cn",
+    "languages": [
+      "en",
+      "zh-cn"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.4.2",
+    "jwtSecretKey": "Y2I3MDVlMGIyNDc5MWViZTJmZDY2ZGQ1YWNmYjY1Y2QwYzUwOTA4ZmRhN2I4ZTk1MjNmOTZlYzQwNWY3NTI5ZDJkMTk4N2FlZDRmOTk4NGQ0OTA4YTI0NmU5ZGI2MmNhM2ZmMjk3MmMyYTE4YmRkYWNmN2FlYjA5MmRkYmY0NmM="
+  },
+  "git-provider": "GitHub",
+  "git-company": "lusl1991",
+  "repository-name": "jhipster-sample-application"
+}
